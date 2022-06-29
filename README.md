@@ -1,6 +1,6 @@
 Olá!!:sun_with_face:
 Meu nome é Gabriela Roberta :libra:
-Professora de Matemática e Física!!!
+Sou professora de Matemática e Física!!!
 Entrei no mundo da programação esse ano, e está sendo um grande desafio!!
 Amo crianças!!!
 
